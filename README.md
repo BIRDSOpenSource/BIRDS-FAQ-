@@ -12,7 +12,7 @@ Kyushu Institute of Technology has supported the outside BIRDS open source users
 Frequently Asked Questions (FAQ) about BIRDS BUS in this activity are summarized and listed.
 
 > [!NOTE]
-> Please check the FAQ list from this URL：""
+> Please check the FAQ list from this URL："https://birds-project.com/open-source/pdf/BIRDS_bus_Questions_List.pdf"
 
 This repository provides the reference materials on FAQ list.
 The question number in the FAQ list synchronizes to the head of file name.
